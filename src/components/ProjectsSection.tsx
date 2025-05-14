@@ -19,7 +19,7 @@ const ProjectsSection = () => {
       description: "Real-time cryptocurrency tracking platform displaying live prices, trends, and market cap data with responsive design and optimized performance.",
       technologies: ["React.js", "Tailwind CSS", "Chart.js", "CoinGecko API"],
       link: "https://crypto-ten-snowy.vercel.app",
-      github: "#",
+      github: "https://github.com/sahildando/crypto",
       image: "https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1000",
     },
     {
@@ -34,9 +34,9 @@ const ProjectsSection = () => {
       title: "EcoSavvy: Carbon Footprint Calculator",
       description: "Full-stack application to compute carbon emissions from household to industrial level with rankings and eco-friendly practice advisories.",
       technologies: ["Node.js", "Express", "React.js", "Tailwind CSS"],
-      link: "#",
-      github: "#",
-      image: "https://images.unsplash.com/photo-1593515976752-a33ae7cf3004?q=80&w=1000",
+      link: "https://ecosavvy.vercel.app/",
+      github: "https://github.com/sahildando/SIH-2024",
+      image: "https://medium.com/carbonclick/weve-created-the-world-s-easiest-carbon-footprint-calculator-d1e507bfdbe8",
     }
   ];
 
