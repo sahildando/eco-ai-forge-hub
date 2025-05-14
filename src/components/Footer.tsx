@@ -13,7 +13,7 @@ const Footer = () => {
           </div>
           <div className="flex items-center">
             <p className="text-muted-foreground flex items-center gap-1">
-              Made with <Heart className="h-4 w-4 text-red-500" fill="currentColor" /> using React & Tailwind CSS
+              Made with <Heart className="h-4 w-4 text-red-500" fill="currentColor" />  by Sahil using React & Tailwind CSS
             </p>
           </div>
         </div>
