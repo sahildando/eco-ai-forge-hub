@@ -36,7 +36,7 @@ const ProjectsSection = () => {
       technologies: ["Node.js", "Express", "React.js", "Tailwind CSS"],
       link: "https://ecosavvy.vercel.app/",
       github: "https://github.com/sahildando/SIH-2024",
-      image: "https://medium.com/carbonclick/weve-created-the-world-s-easiest-carbon-footprint-calculator-d1e507bfdbe8",
+      image: "https://decode6.org/wp-content/uploads/2023/04/Carbon-Footprint_01.jpg",
     }
   ];
 
