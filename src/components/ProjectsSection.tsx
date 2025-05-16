@@ -34,8 +34,8 @@ const ProjectsSection = () => {
       title: "EcoSavvy: Carbon Footprint Calculator",
       description: "Full-stack application to compute carbon emissions from household to industrial level with rankings and eco-friendly practice advisories.",
       technologies: ["Node.js", "Express", "React.js", "Tailwind CSS"],
-      link: "https://ecosavvy.vercel.app/",
-      github: "https://github.com/sahildando/SIH-2024",
+      link: "https://eco-savvy-carbon-emission-tracker.vercel.app//",
+      github: "https://github.com/sahildando/eco-savvy-footprint-tracker.git",
       image: "https://decode6.org/wp-content/uploads/2023/04/Carbon-Footprint_01.jpg",
     }
   ];
