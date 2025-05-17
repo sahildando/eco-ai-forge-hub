@@ -25,9 +25,9 @@ const ProjectsSection = () => {
     {
       title: "Air Quality Prediction Model",
       description: "ML model that predicts air quality index using weather and pollutant data, with data cleaning, feature engineering, and model evaluation.",
-      technologies: ["Python", "Pandas", "Scikit-learn", "Matplotlib"],
+      technologies: ["Python", "Pandas", "Scikit-learn", "Matplotlib","Streamlit"],
       link: "#",
-      github: "#",
+      github: "https://github.com/sahildando/AQI-INDEX.git",
       image: "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?q=80&w=1000",
     },
     {
