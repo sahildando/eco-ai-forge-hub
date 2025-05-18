@@ -14,6 +14,13 @@ const ProjectsSection = () => {
       github: "#",
       image: "https://images.unsplash.com/photo-1605000797499-95a51c5269ae?q=80&w=1000",
     },
+     {
+      title: "Football Analytics",
+      description: "A ML model that analyze and compare players,teams,clubs and their analytics.",
+      technologies: ["Python", "Numpy", "Maplotlib", "Pandas", "Streamlit"],
+      link: "https://mclachapp.streamlit.app/",
+      image: "https://www.shutterstock.com/image-photo/digital-technology-football-soccer-team-manager-2168598603",
+    },
     {
       title: "Background image remover",
       description: "A computer vision system that detects crop diseases by analyzing leaf images and environmental data, providing actionable recommendations for farmers.",
