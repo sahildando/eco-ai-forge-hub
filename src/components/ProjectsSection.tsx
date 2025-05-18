@@ -19,7 +19,7 @@ const ProjectsSection = () => {
       description: "A ML model that analyze and compare players,teams,clubs and their analytics.",
       technologies: ["Python", "Numpy", "Maplotlib", "Pandas", "Streamlit"],
       link: "https://mclachapp.streamlit.app/",
-      image: "https://in.pinterest.com/pin/367887863331409076/",
+      image: "https://i.pinimg.com/1200x/6e/e5/4b/6ee54b819db74b79dbc6e84afbf46cdb.jpg",
     },
     {
       title: "Background image remover",
