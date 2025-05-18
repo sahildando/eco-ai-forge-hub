@@ -15,6 +15,14 @@ const ProjectsSection = () => {
       image: "https://images.unsplash.com/photo-1605000797499-95a51c5269ae?q=80&w=1000",
     },
     {
+      title: "Background image remover",
+      description: "A computer vision system that detects crop diseases by analyzing leaf images and environmental data, providing actionable recommendations for farmers.",
+      technologies: ["Python", "PyTorch", "Streamlit"],
+      link: "https://sahildando-llm-project-bg-remove-nwpg7f.streamlit.app/",
+      github: "https://github.com/sahildando/LLM-Project.git",
+      image: "https://raw.githubusercontent.com/nadermx/backgroundremover/main/examplefiles/backgroundremoverexample.png",
+    },
+    {
       title: "Crypto Tracker Website",
       description: "Real-time cryptocurrency tracking platform displaying live prices, trends, and market cap data with responsive design and optimized performance.",
       technologies: ["React.js", "Tailwind CSS", "Chart.js", "CoinGecko API"],
