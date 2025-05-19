@@ -11,7 +11,7 @@ const ProjectsSection = () => {
       description: "A computer vision system that detects crop diseases by analyzing leaf images and environmental data, providing actionable recommendations for farmers.",
       technologies: ["Python", "OpenCV", "PyTorch", "React.js", "Streamlit"],
       link: "#",
-      github: "#",
+      github: "https://github.com/sahildando/AI-Crop-Disease-Prediction.git",
       image: "https://images.unsplash.com/photo-1605000797499-95a51c5269ae?q=80&w=1000",
     },
      {
