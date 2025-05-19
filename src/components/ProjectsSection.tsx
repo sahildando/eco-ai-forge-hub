@@ -23,8 +23,8 @@ const ProjectsSection = () => {
     },
     {
       title: "Background image remover",
-      description: "A computer vision system that detects crop diseases by analyzing leaf images and environmental data, providing actionable recommendations for farmers.",
-      technologies: ["Python", "PyTorch", "Streamlit"],
+      description: "A professional-grade web application built with Python that leverages machine learning to perform automated image background removal..",
+      technologies: ["Python", "Streamlit"],
       link: "https://sahildando-llm-project-bg-remove-nwpg7f.streamlit.app/",
       github: "https://github.com/sahildando/LLM-Project.git",
       image: "https://raw.githubusercontent.com/nadermx/backgroundremover/main/examplefiles/backgroundremoverexample.png",
@@ -47,7 +47,7 @@ const ProjectsSection = () => {
     },
     {
       title: "EcoSavvy: Carbon Footprint Calculator",
-      description: "Full-stack application to compute carbon emissions from household to industrial level with rankings and eco-friendly practice advisories.",
+      description: "A react based application to compute carbon emissions from household to industrial level with rankings and eco-friendly practice advisories.",
       technologies: ["Postman", "Chart.js", "React.js", "Tailwind CSS"],
       link: "https://eco-savvy-carbon-emission-tracker.vercel.app//",
       github: "https://github.com/sahildando/eco-savvy-footprint-tracker.git",
