@@ -8,8 +8,8 @@ const ProjectsSection = () => {
   const projects = [
     {
       title: "AI-Powered Crop Disease Detection",
-      description: "A computer vision system that detects crop diseases by analyzing leaf images and environmental data, providing actionable recommendations for farmers.",
-      technologies: ["Python", "OpenCV", "PyTorch", "React.js", "Streamlit"],
+      description: "A system that detects crop diseases by analyzing leaf images and environmental data, providing actionable recommendations for farmers.",
+      technologies: ["Python", "C++", "PyTorch", "Jupyter Notebook", "Streamlit"],
       link: "#",
       github: "https://github.com/sahildando/AI-Crop-Disease-Prediction.git",
       image: "https://images.unsplash.com/photo-1605000797499-95a51c5269ae?q=80&w=1000",
@@ -48,7 +48,7 @@ const ProjectsSection = () => {
     {
       title: "EcoSavvy: Carbon Footprint Calculator",
       description: "Full-stack application to compute carbon emissions from household to industrial level with rankings and eco-friendly practice advisories.",
-      technologies: ["Node.js", "Express", "React.js", "Tailwind CSS"],
+      technologies: ["Postman", "Chart.js", "React.js", "Tailwind CSS"],
       link: "https://eco-savvy-carbon-emission-tracker.vercel.app//",
       github: "https://github.com/sahildando/eco-savvy-footprint-tracker.git",
       image: "https://decode6.org/wp-content/uploads/2023/04/Carbon-Footprint_01.jpg",
