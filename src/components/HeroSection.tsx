@@ -39,11 +39,12 @@ const HeroSection = () => {
           <div className="flex justify-center items-center">
             <div className="relative group">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full border-4 border-purple-500 shadow-[0_0_60px_10px_rgba(139,92,246,0.5)] transition duration-500 animate-glow">
-                <img
-                  src="https://postimg.cc/HrWXLtJB"
-                  alt="Sahil's Portrait"
-                  className="w-full h-full rounded-full object-cover"
-                />
+              <img
+  src="https://i.postimg.cc/4xV5BLXk/IMG-20250306-150305-748.webp"
+  alt="Sahil Sharma"
+  className="w-64 h-64 rounded-full border-4 border-violet-500 shadow-violet-500 shadow-lg"
+/>
+
               </div>
             </div>
           </div>
