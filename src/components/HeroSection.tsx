@@ -40,7 +40,7 @@ const HeroSection = () => {
             <div className="relative group">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full border-4 border-purple-500 shadow-[0_0_60px_10px_rgba(139,92,246,0.5)] transition duration-500 animate-glow">
                 <img
-                  src="https://raw.githubusercontent.com/sahildando/eco-ai-forge-hub/main/src/components/IMG_20250306_150305_748.webp"
+                  src="https://ibb.co/j96DfQ1b"
                   alt="Sahil's Portrait"
                   className="w-full h-full rounded-full object-cover"
                 />
