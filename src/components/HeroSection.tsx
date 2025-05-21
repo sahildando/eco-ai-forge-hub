@@ -40,12 +40,13 @@ const HeroSection = () => {
           </div>
 
           {/* Right Image */}
-          <div className="relative group">
-            <img
-              src="https://raw.githubusercontent.com/sahildando/eco-ai-forge-hub/main/src/components/IMG_20250306_150305_748.webp"
-              alt="Sahil's Portrait"
-              className="w-80 h-80 rounded-full object-cover border-4 border-primary shadow-xl transition duration-500 group-hover:shadow-primary animate-glow"
-            />
+          import MyImage from './IMG_20250306_150305_748.webp';
+
+<img
+  src={MyImage}
+  alt="Sahil's Portrait"
+  className="w-80 h-80 rounded-full object-cover border-4 border-primary shadow-xl transition duration-500 group-hover:shadow-primary animate-glow"
+/>
             {/* Optional glitter glow */}
             <div className="absolute inset-0 rounded-full border-4 border-primary animate-pulse blur-sm"></div>
           </div>
