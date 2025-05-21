@@ -42,7 +42,7 @@ const HeroSection = () => {
           {/* Right Image */}
           <div className="relative group">
             <img
-              src="https://raw.githubusercontent.com/sahildando/eco-ai-forge-hub/refs/heads/main/src/components/IMG_20250306_150305_748.webp?token=GHSAT0AAAAAADDXJF5VA6OEVFHIEBEKRUYI2BN7Q5Q"
+              src="https://raw.githubusercontent.com/sahildando/eco-ai-forge-hub/main/src/components/IMG_20250306_150305_748.webp"
               alt="Sahil's Portrait"
               className="w-80 h-80 rounded-full object-cover border-4 border-primary shadow-xl transition duration-500 group-hover:shadow-primary animate-glow"
             />
