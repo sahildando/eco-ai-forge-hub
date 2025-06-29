@@ -61,7 +61,7 @@ const ProjectsSection = () => {
       technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://project-psi-sage-67.vercel.app/",
       github: "https://github.com/sahildando/project",
-      image: "https://images.app.goo.gl/D9iNKGweBkcz8mTf9",
+      image: "https://images.unsplash.com/photo-1614082242765-0d35ecb5464c?q=80&w=1400&auto=format&fit=crop",
     },
     {
       title: "UFC-Analysis with 2-d Animation",
@@ -69,7 +69,7 @@ const ProjectsSection = () => {
       technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://ufc-3d-stats-hub.vercel.app/",
       github: "https://github.com/sahildando/ufc-3d-stats-hub",
-      image: "https://images.app.goo.gl/5U6XSt6XkYUGRtmNA",
+      image: "https://images.unsplash.com/photo-1612091119259-6c2931f80f66?q=80&w=1400&auto=format&fit=crop",
     },
     {
       title: "Football Data Insights",
@@ -77,7 +77,7 @@ const ProjectsSection = () => {
       technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://football-united.vercel.app/",
       github: "https://github.com/sahildando/footy-insight-arena",
-      image: "https://images.app.goo.gl/7s2tKDWL5FqxoeCeA",
+      image: "https://images.unsplash.com/photo-1606011458302-0ecb1f3c3f41?q=80&w=1400&auto=format&fit=crop",
     },
     {
       title: "Music Universal",
@@ -85,7 +85,7 @@ const ProjectsSection = () => {
       technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://musicverse-ai-chronicles.vercel.app/",
       github: "https://github.com/sahildando/musicverse-ai-chronicles",
-      image: "https://images.app.goo.gl/Zk4UypbbLnTcJYuX6",
+      image: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1400&auto=format&fit=crop",
     },
   ];
 
