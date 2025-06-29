@@ -61,7 +61,7 @@ const ProjectsSection = () => {
       technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://project-psi-sage-67.vercel.app/",
       github: "https://github.com/sahildando/project",
-      image: "https://images.unsplash.com/photo-1614082242765-0d35ecb5464c?q=80&w=1400&auto=format&fit=crop",
+      image: "https://pin.it/5GDe5Qr01",
     },
     {
       title: "UFC-Analysis with 2-d Animation",
