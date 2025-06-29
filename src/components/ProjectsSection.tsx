@@ -53,6 +53,38 @@ const ProjectsSection = () => {
       github: "https://github.com/sahildando/eco-savvy-footprint-tracker.git",
       image: "https://decode6.org/wp-content/uploads/2023/04/Carbon-Footprint_01.jpg",
     }
+    {
+      title: "F1 Music Insight with data Driven Analytics",
+      description: "A system that has data driven insights of champions who win which grand prix plus theirteams and franchise and how the legacy and team has performed over the years.",
+      technologies: ["React,Typescript,Threejs,Chartjs,shadcdn,MUI"],
+      link: "https://project-psi-sage-67.vercel.app/",
+      github: "https://github.com/sahildando/project",
+      image: "https://images.app.goo.gl/D9iNKGweBkcz8mTf9",
+    },
+    {
+      title: "UFC-Anaysis with 2-d Animation",
+      description: "A system that analyze the weight measures of UFC fighters and their wins and  loses , KOs and fan following .",
+      technologies: ["React,Typescript,Threejs,Chartjs,shadcdn,MUI"],
+      link: "https://ufc-3d-stats-hub.vercel.app/",
+      github: "https://github.com/sahildando/ufc-3d-stats-hub",
+      image: "https://images.app.goo.gl/5U6XSt6XkYUGRtmNA",
+    },
+        {
+      title: "Football Data Insights",
+      description: "A system that provide us information of european football data analytics top scorers, defenders, strikers and midfielders and club legacy and winners of various leagues and individual awards.",
+      technologies: ["React,Typescript,Threejs,Chartjs,shadcdn,MUI"],
+      link: "https://football-united.vercel.app/",
+      github: "https://github.com/sahildando/footy-insight-arena",
+      image: "https://images.app.goo.gl/7s2tKDWL5FqxoeCeA",
+    },
+        {
+      title: "Music Universal",
+      description: "A system that provide all holloywood singers albums, awards, fan following , most streamed songs and compare them on the basis of their albums and songs.",
+      technologies: ["React,Typescript,Threejs,Chartjs,shadcdn,MUI"],
+      link: "https://musicverse-ai-chronicles.vercel.app/",
+      github: "https://github.com/sahildando/musicverse-ai-chronicles",
+      image: "https://images.app.goo.gl/Zk4UypbbLnTcJYuX6",
+    },
   ];
 
   return (
