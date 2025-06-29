@@ -4,6 +4,8 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 
+// No changes to import or component declaration...
+
 const ProjectsSection = () => {
   const projects = [
     {
@@ -14,7 +16,7 @@ const ProjectsSection = () => {
       github: "https://github.com/sahildando/AI-Crop-Disease-Prediction.git",
       image: "https://images.unsplash.com/photo-1605000797499-95a51c5269ae?q=80&w=1000",
     },
-     {
+    {
       title: "Football Analytics",
       description: "A ML model that analyze and compare players,teams,clubs and their analytics.",
       technologies: ["Python", "Numpy", "Maplotlib", "Pandas", "Streamlit"],
@@ -40,7 +42,7 @@ const ProjectsSection = () => {
     {
       title: "Air Quality Prediction Model",
       description: "ML model that predicts air quality index using weather and pollutant data, with data cleaning, feature engineering, and model evaluation.",
-      technologies: ["Python", "Pandas", "Scikit-learn", "Matplotlib","Streamlit"],
+      technologies: ["Python", "Pandas", "Scikit-learn", "Matplotlib", "Streamlit"],
       link: "https://aqi-index-sahil-sharma.streamlit.app/",
       github: "https://github.com/sahildando/AQI-INDEX.git",
       image: "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?q=80&w=1000",
@@ -52,40 +54,41 @@ const ProjectsSection = () => {
       link: "https://eco-savvy-carbon-emission-tracker.vercel.app//",
       github: "https://github.com/sahildando/eco-savvy-footprint-tracker.git",
       image: "https://decode6.org/wp-content/uploads/2023/04/Carbon-Footprint_01.jpg",
-    }
+    },
     {
       title: "F1 Music Insight with data Driven Analytics",
-      description: "A system that has data driven insights of champions who win which grand prix plus theirteams and franchise and how the legacy and team has performed over the years.",
-      technologies: ["React,Typescript,Threejs,Chartjs,shadcdn,MUI"],
+      description: "A system that has data driven insights of champions who win which grand prix plus their teams and franchise and how the legacy and team has performed over the years.",
+      technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://project-psi-sage-67.vercel.app/",
       github: "https://github.com/sahildando/project",
       image: "https://images.app.goo.gl/D9iNKGweBkcz8mTf9",
     },
     {
-      title: "UFC-Anaysis with 2-d Animation",
-      description: "A system that analyze the weight measures of UFC fighters and their wins and  loses , KOs and fan following .",
-      technologies: ["React,Typescript,Threejs,Chartjs,shadcdn,MUI"],
+      title: "UFC-Analysis with 2-d Animation",
+      description: "A system that analyze the weight measures of UFC fighters and their wins and losses, KOs and fan following.",
+      technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://ufc-3d-stats-hub.vercel.app/",
       github: "https://github.com/sahildando/ufc-3d-stats-hub",
       image: "https://images.app.goo.gl/5U6XSt6XkYUGRtmNA",
     },
-        {
+    {
       title: "Football Data Insights",
-      description: "A system that provide us information of european football data analytics top scorers, defenders, strikers and midfielders and club legacy and winners of various leagues and individual awards.",
-      technologies: ["React,Typescript,Threejs,Chartjs,shadcdn,MUI"],
+      description: "A system that provides European football data analytics: top scorers, defenders, strikers, midfielders, club legacy and league winners.",
+      technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://football-united.vercel.app/",
       github: "https://github.com/sahildando/footy-insight-arena",
       image: "https://images.app.goo.gl/7s2tKDWL5FqxoeCeA",
     },
-        {
+    {
       title: "Music Universal",
-      description: "A system that provide all holloywood singers albums, awards, fan following , most streamed songs and compare them on the basis of their albums and songs.",
-      technologies: ["React,Typescript,Threejs,Chartjs,shadcdn,MUI"],
+      description: "A system that provides all Hollywood singers' albums, awards, fan following, most streamed songs and comparisons.",
+      technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://musicverse-ai-chronicles.vercel.app/",
       github: "https://github.com/sahildando/musicverse-ai-chronicles",
       image: "https://images.app.goo.gl/Zk4UypbbLnTcJYuX6",
     },
   ];
+
 
   return (
     <section id="projects" className="py-20">
