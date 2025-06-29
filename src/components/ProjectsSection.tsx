@@ -69,7 +69,7 @@ const ProjectsSection = () => {
       technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://ufc-3d-stats-hub.vercel.app/",
       github: "https://github.com/sahildando/ufc-3d-stats-hub",
-      image: "https://images.unsplash.com/photo-1612091119259-6c2931f80f66?q=80&w=1400&auto=format&fit=crop",
+      image: "https://i.pinimg.com/1200x/56/13/94/56139409e837dd8d8319d6f39e6bf6d3.jpg",
     },
     {
       title: "Football Data Insights",
@@ -77,7 +77,7 @@ const ProjectsSection = () => {
       technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://football-united.vercel.app/",
       github: "https://github.com/sahildando/footy-insight-arena",
-      image: "https://images.unsplash.com/photo-1606011458302-0ecb1f3c3f41?q=80&w=1400&auto=format&fit=crop",
+      image: "https://i.pinimg.com/1200x/ac/30/68/ac306889bee73496996741ae8d978ba8.jpg",
     },
     {
       title: "Music Universal",
@@ -85,7 +85,7 @@ const ProjectsSection = () => {
       technologies: ["React", "Typescript", "Threejs", "Chartjs", "shadcdn", "MUI"],
       link: "https://musicverse-ai-chronicles.vercel.app/",
       github: "https://github.com/sahildando/musicverse-ai-chronicles",
-      image: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1400&auto=format&fit=crop",
+      image: "https://i.pinimg.com/1200x/24/0f/be/240fbee1c70929d476e01f6e092d3f44.jpg",
     },
   ];
 
